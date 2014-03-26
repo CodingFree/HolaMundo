@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "name": "HolaMundo",
+  "description": "Una aplicación de prueba.",
+  "launch_path": "/miweb/index.html",
+  "developer": {
+    "name": "CodingFree",
+    "url": "https://www.codingfree.com"
+  },
+  "installs_allowed_from": ["*"],
+  "default_locale": "es",
+  "icons": {
+    "16": "icon16.png",
+    "128": "icon128.png"
+  }
+}
+
